@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "math-notes build",
+    "preview": "math-notes preview",
+    "check": "math-notes check"
+  },
+  "dependencies": {
+    "math-notes-previewer": "git+https://github.com/skrtk98/math-notes-previewer.git#v1.0.0"
+  }
+}
